@@ -4,7 +4,7 @@
   let script = document.createElement("script");
   script.setAttribute(
     "src",
-    "https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Agv3yWf-P4aPelrHvZZfvISIRN2zWqCp885IYh2H_HnUpAjvzOhOXJRPiLUef4Gl"
+    "https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=<your_api_key>"
   );
   document.body.appendChild(script);
 })();
